@@ -1,0 +1,15 @@
+[
+  {
+    "title": "入門指南",
+    "pages": {
+      "/": "簡介"
+    }
+  },
+  {
+    "title": "安裝",
+    "pages": {
+      "/installing/android": "Android",
+      "/installing/ios": "iOS"
+    }
+  }
+]
