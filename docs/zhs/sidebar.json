@@ -1,0 +1,15 @@
+[
+  {
+    "title": "新手入门",
+    "pages": {
+      "/": "简介"
+    }
+  },
+  {
+    "title": "安装",
+    "pages": {
+      "/installing/android": "安卓",
+      "/installing/ios": "iOS"
+    }
+  }
+]
