@@ -1,0 +1,15 @@
+[
+  {
+    "title": "시작하기",
+    "pages": {
+      "/": "소개"
+    }
+  },
+  {
+    "title": "설치",
+    "pages": {
+      "/installing/android": "Android",
+      "/installing/ios": "iOS"
+    }
+  }
+]
