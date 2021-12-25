@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Mulai",
+    "pages": {
+      "/": "Introduksi"
+    }
+  },
+  {
+    "title": "Penginstallan",
+    "pages": {
+      "/installing/android": "Android",
+      "/installing/ios": "iOS"
+    }
+  }
+]
