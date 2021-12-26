@@ -14,12 +14,12 @@ Sonolus 目前正在开发中，因此尚未发布在 App Store 中。
 
 各种工具可以帮助进行侧载，例如：
 
-- [AltStore](https://altstore.io)
-- [3uTools](http://3u.com)
-- [Sideloadly](https://sideloadly.io)
-- [爱思助手](https://www.i4.cn)
+-   [AltStore](https://altstore.io)
+-   [3uTools](http://3u.com)
+-   [Sideloadly](https://sideloadly.io)
+-   [爱思助手](https://www.i4.cn)
 
-使用任何此类工具下载并侧载 [Sonolus_0.5.8.ipa](https://sonolus.com/download/Sonolus_0.5.8.ipa) 。
+使用任何此类工具下载并侧载 [Sonolus_0.5.9.ipa](https://sonolus.com/download/Sonolus_0.5.9.ipa) 。
 
 注意：Sonolus 与上述工具无关联，无法保证其安全性或真实性，请谨慎操作。
 
@@ -27,12 +27,12 @@ Sonolus 目前正在开发中，因此尚未发布在 App Store 中。
 
 各种服务可以帮助进行侧载，例如：
 
-- [Scarlet](https://usescarlet.com)
-- [AppCake](https://www.iphonecake.com)
-- [Signum](https://signumsign.me)
-- [Signulous](https://www.signulous.com)
+-   [Scarlet](https://usescarlet.com)
+-   [AppCake](https://www.iphonecake.com)
+-   [Signum](https://signumsign.me)
+-   [Signulous](https://www.signulous.com)
 
-使用任何此类服务下载并侧载 [Sonolus_0.5.8.ipa](https://sonolus.com/download/Sonolus_0.5.8.ipa) 。
+使用任何此类服务下载并侧载 [Sonolus_0.5.9.ipa](https://sonolus.com/download/Sonolus_0.5.9.ipa) 。
 
 注意：Sonolus 与上述服务无关联，无法保证其安全性或真实性，请谨慎操作。
 
@@ -40,8 +40,8 @@ Sonolus 目前正在开发中，因此尚未发布在 App Store 中。
 
 请查阅各种越狱指南，例如：
 
-- [iOS Guide](https://ios.cfw.guide)
+-   [iOS Guide](https://ios.cfw.guide)
 
-越狱后，下载并安装 [Sonolus_0.5.8.ipa](https://sonolus.com/download/Sonolus_0.5.8.ipa) 。
+越狱后，下载并安装 [Sonolus_0.5.9.ipa](https://sonolus.com/download/Sonolus_0.5.9.ipa) 。
 
 注意：Sonolus 与上述指南无关联，无法保证其安全性或真实性，请谨慎操作。

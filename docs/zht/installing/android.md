@@ -1,16 +1,16 @@
 # Android
 
-目前Sonolus還在開發階段，因此暫未可以在各Android應用商店中下載。
+目前 Sonolus 還在開發階段，因此暫未可以在各 Android 應用商店中下載。
 
-您可以使用以下的方法在Android裝置上安裝Sonolus。
+您可以使用以下的方法在 Android 裝置上安裝 Sonolus。
 
 ## 側載
 
 ### 1.啟用側載
 
-因應不同的裝置及Android版本，會有不同的步驟，詳見相關資料。
+因應不同的裝置及 Android 版本，會有不同的步驟，詳見相關資料。
 
-以下將會以Android 8裝置為例子說明步驟：
+以下將會以 Android 8 裝置為例子說明步驟：
 
 1. 設定
 2. 應用程式及通知
@@ -22,4 +22,4 @@
 
 ### 2.安裝
 
-下載並安裝[Sonolus_0.5.8.apk](https://sonolus.com/download/Sonolus_0.5.8.apk)。
+下載並安裝[Sonolus_0.5.9.apk](https://sonolus.com/download/Sonolus_0.5.9.apk)。
