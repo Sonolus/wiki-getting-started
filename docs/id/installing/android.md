@@ -22,4 +22,4 @@ Sebagai contoh, untuk vanilla Android Oreo dan yang lebih baru, Anda dapat menem
 
 ### 2. Install
 
-Download dan install [Sonolus_0.5.11.apk](https://sonolus.com/download/Sonolus_0.5.11.apk).
+Download dan install [Sonolus_0.5.12.apk](https://sonolus.com/download/Sonolus_0.5.12.apk).
