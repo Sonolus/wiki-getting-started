@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Empezando",
+    "pages": {
+      "/": "Introducción"
+    }
+  },
+  {
+    "title": "Instalación",
+    "pages": {
+      "/installing/android": "Android",
+      "/installing/ios": "iOS"
+    }
+  }
+]
