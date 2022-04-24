@@ -14,12 +14,12 @@ Nota: debido a la popularidad de Sonolus, TestFlight se llena con frecuencia. Vu
 
 Algunas herramientas pueden ayudar con el sideloading, como:
 
-- [AltStore](https://altstore.io)
-- [3uTools](http://3u.com)
-- [Sideloadly](https://sideloadly.io)
-- [爱思助手](https://www.i4.cn)
+-   [AltStore](https://altstore.io)
+-   [3uTools](http://3u.com)
+-   [Sideloadly](https://sideloadly.io)
+-   [爱思助手](https://www.i4.cn)
 
-Descarga y hazle un sideload (descarga lateral) a [Sonolus_0.5.12_3.ipa](https://sonolus.com/download/Sonolus_0.5.12_3.ipa) usando cualquiera de esas herramientas.
+Descarga y hazle un sideload (descarga lateral) a [Sonolus_0.5.13.ipa](https://sonolus.com/download/Sonolus_0.5.13.ipa) usando cualquiera de esas herramientas.
 
 <br>Nota: Sonolus no está asociado con las herramientas anteriores y no puede garantizar su seguridad o autenticidad, procede con cuidado.
 
@@ -27,12 +27,12 @@ Descarga y hazle un sideload (descarga lateral) a [Sonolus_0.5.12_3.ipa](https:/
 
 Varios servicios pueden ayudar con el sideloading, como:
 
-- [Scarlet](https://usescarlet.com)
-- [AppCake](https://www.iphonecake.com)
-- [Signum](https://signumsign.me)
-- [Signulous](https://www.signulous.com)
+-   [Scarlet](https://usescarlet.com)
+-   [AppCake](https://www.iphonecake.com)
+-   [Signum](https://signumsign.me)
+-   [Signulous](https://www.signulous.com)
 
-Descarga y hazle un sideload (descarga lateral) a [Sonolus_0.5.12_3.ipa](https://sonolus.com/download/Sonolus_0.5.12_3.ipa) usando cualquiera de esos servicios.
+Descarga y hazle un sideload (descarga lateral) a [Sonolus_0.5.13.ipa](https://sonolus.com/download/Sonolus_0.5.13.ipa) usando cualquiera de esos servicios.
 
 Nota: Sonolus no está asociado con los servicios anteriores y no puede garantizar su seguridad o autenticidad, procede con cuidado.
 
@@ -40,8 +40,8 @@ Nota: Sonolus no está asociado con los servicios anteriores y no puede garantiz
 
 Consulta varias guías de jailbreak, como:
 
-- [Guía de iOS](https://ios.cfw.guide)
+-   [Guía de iOS](https://ios.cfw.guide)
 
-Descarga e instala [Sonolus_0.5.12_3.ipa](https://sonolus.com/download/Sonolus_0.5.12_3.ipa) después de hacer un jailbreak.
+Descarga e instala [Sonolus_0.5.13.ipa](https://sonolus.com/download/Sonolus_0.5.13.ipa) después de hacer un jailbreak.
 
 Nota: Sonolus no está asociado con las guías anteriores y no puede garantizar su seguridad o autenticidad, procede con cuidado.
