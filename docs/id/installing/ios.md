@@ -6,7 +6,7 @@ Untuk menginstall Sonolus di perangkat iOS, gunakan berbagai metode dibawah ini.
 
 ## TestFlight Apple
 
-Kunjungi [Sonolus beta on TestFlight](https://testflight.apple.com/join/bR6Kaqgc) dan ikuti instruksinya.
+Kunjungi [Sonolus beta on TestFlight](https://testflight.apple.com/join/mdFtAf92) dan ikuti instruksinya.
 
 Catatan: dikarenakan popularitas Sonolus, TestFlight sering penuh. Tolong lihat ke halaman ini dan cek untuk link terbaru, atau gunakan metode lain.
 
@@ -19,7 +19,7 @@ Berbagai alat dapat membantu sideloading, seperti:
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
 
-Download dan sideload [Sonolus_0.5.13.ipa](https://sonolus.com/download/Sonolus_0.5.13.ipa) dengan menggunakan alat yang disebutkan.
+Download dan sideload [Sonolus_0.6.0.ipa](https://sonolus.com/download/Sonolus_0.6.0.ipa) dengan menggunakan alat yang disebutkan.
 
 Catatan: Sonolus tidak bekerja sama dengan alat yang diatas dan tidak bisa menjamin akan keamanan atau keasliannya, tolong dilakukan dengan hati-hati.
 
@@ -32,7 +32,7 @@ Berbagai layanan dapat membantu sideloading, seperti:
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 
-Download dan sideload [Sonolus_0.5.13.ipa](https://sonolus.com/download/Sonolus_0.5.13.ipa) dengan menggunakan layanan yang disebutkan.
+Download dan sideload [Sonolus_0.6.0.ipa](https://sonolus.com/download/Sonolus_0.6.0.ipa) dengan menggunakan layanan yang disebutkan.
 
 Catatan: Sonolus tidak bekerja sama dengan layanan yang diatas dan tidak bisa menjamin akan keamanan atau keasliannya, tolong dilakukan dengan hati-hati.
 
@@ -42,6 +42,6 @@ Silakan berkonsultasi dengan berbagai panduan jailbreaking, seperti:
 
 -   [iOS Guide](https://ios.cfw.guide)
 
-Download dan install [Sonolus_0.5.13.ipa](https://sonolus.com/download/Sonolus_0.5.13.ipa) setelah jailbreaking.
+Download dan install [Sonolus_0.6.0.ipa](https://sonolus.com/download/Sonolus_0.6.0.ipa) setelah jailbreaking.
 
 Catatan: Sonolus tidak bekerja sama dengan panduan yang diatas dan tidak bisa menjamin akan keamanan atau keasliannya, tolong dilakukan dengan hati-hati.

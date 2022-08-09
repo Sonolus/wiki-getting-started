@@ -6,7 +6,7 @@ Para instalar Sonolus en un dispositivo iOS, usa cualquiera de los métodos sigu
 
 ## TestFlight de Apple
 
-Visita la [beta de Sonolus en TestFlight](https://testflight.apple.com/join/bR6Kaqgc) y sigue las instrucciones.
+Visita la [beta de Sonolus en TestFlight](https://testflight.apple.com/join/mdFtAf92) y sigue las instrucciones.
 
 Nota: debido a la popularidad de Sonolus, TestFlight se llena con frecuencia. Vuelve a esta página en busca de nuevos links, o usa los otros métodos.
 
@@ -19,7 +19,7 @@ Algunas herramientas pueden ayudar con el sideloading, como:
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
 
-Descarga y hazle un sideload (descarga lateral) a [Sonolus_0.5.13.ipa](https://sonolus.com/download/Sonolus_0.5.13.ipa) usando cualquiera de esas herramientas.
+Descarga y hazle un sideload (descarga lateral) a [Sonolus_0.6.0.ipa](https://sonolus.com/download/Sonolus_0.6.0.ipa) usando cualquiera de esas herramientas.
 
 <br>Nota: Sonolus no está asociado con las herramientas anteriores y no puede garantizar su seguridad o autenticidad, procede con cuidado.
 
@@ -32,7 +32,7 @@ Varios servicios pueden ayudar con el sideloading, como:
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 
-Descarga y hazle un sideload (descarga lateral) a [Sonolus_0.5.13.ipa](https://sonolus.com/download/Sonolus_0.5.13.ipa) usando cualquiera de esos servicios.
+Descarga y hazle un sideload (descarga lateral) a [Sonolus_0.6.0.ipa](https://sonolus.com/download/Sonolus_0.6.0.ipa) usando cualquiera de esos servicios.
 
 Nota: Sonolus no está asociado con los servicios anteriores y no puede garantizar su seguridad o autenticidad, procede con cuidado.
 
@@ -42,6 +42,6 @@ Consulta varias guías de jailbreak, como:
 
 -   [Guía de iOS](https://ios.cfw.guide)
 
-Descarga e instala [Sonolus_0.5.13.ipa](https://sonolus.com/download/Sonolus_0.5.13.ipa) después de hacer un jailbreak.
+Descarga e instala [Sonolus_0.6.0.ipa](https://sonolus.com/download/Sonolus_0.6.0.ipa) después de hacer un jailbreak.
 
 Nota: Sonolus no está asociado con las guías anteriores y no puede garantizar su seguridad o autenticidad, procede con cuidado.
