@@ -6,7 +6,7 @@
 
 ## Apple TestFlight
 
-在 TestFlight 上訪問[Sonolus 的 Beta 測試頁](https://testflight.apple.com/join/bR6Kaqgc)並按照指引進行操作。
+在 TestFlight 上訪問[Sonolus 的 Beta 測試頁](https://testflight.apple.com/join/mdFtAf92)並按照指引進行操作。
 
 備註：由於測試人數過多，Sonolus 的 TestfFight 很經常地滿員並無法新增新的測試人員。<br>遇到這個情況時，請回到這個頁面去打開新的邀請連結，或使用其他方法。
 
@@ -19,7 +19,7 @@
 -   [Sideloadly](https://sideloadly.io)
 -   [愛思助手](https://www.i4.cn)
 
-使用以上的工具下載並側載[Sonolus_0.5.13.ipa](https://sonolus.com/download/Sonolus_0.5.13.ipa)。
+使用以上的工具下載並側載[Sonolus_0.6.0.ipa](https://sonolus.com/download/Sonolus_0.6.0.ipa)。
 
 備註：Sonolus 與上述提及的工具沒有關係，亦並不確保它們的安全性。請小心使用這些工具。
 
@@ -32,7 +32,7 @@
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 
-使用以上的服務下載並側載[Sonolus_0.5.13.ipa](https://sonolus.com/download/Sonolus_0.5.13.ipa)。
+使用以上的服務下載並側載[Sonolus_0.6.0.ipa](https://sonolus.com/download/Sonolus_0.6.0.ipa)。
 
 備註：Sonolus 與上述提及的服務沒有關係，亦並不確保它們的安全性。請小心使用這些工具。
 
@@ -42,6 +42,6 @@
 
 -   [iOS 指南](https://ios.cfw.guide)
 
-越獄後下載並安裝[Sonolus_0.5.13.ipa。](https://sonolus.com/download/Sonolus_0.5.13.ipa)
+越獄後下載並安裝[Sonolus_0.6.0.ipa。](https://sonolus.com/download/Sonolus_0.6.0.ipa)
 
 備註：Sonolus 與上述提及的指南沒有關係，亦並不確保它的安全性。請小心使用這些工具。
