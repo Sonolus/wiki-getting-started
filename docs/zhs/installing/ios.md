@@ -19,7 +19,7 @@ Sonolus 目前正在开发中，因此尚未发布在 App Store 中。
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
 
-使用任何此类工具下载并侧载 [Sonolus_0.6.0_1.ipa](https://sonolus.com/download/Sonolus_0.6.0_1.ipa) 。
+使用任何此类工具下载并侧载 [Sonolus_0.6.0_2.ipa](https://sonolus.com/download/Sonolus_0.6.0_2.ipa) 。
 
 注意：Sonolus 与上述工具无关联，无法保证其安全性或真实性，请谨慎操作。
 
@@ -32,7 +32,7 @@ Sonolus 目前正在开发中，因此尚未发布在 App Store 中。
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 
-使用任何此类服务下载并侧载 [Sonolus_0.6.0_1.ipa](https://sonolus.com/download/Sonolus_0.6.0_1.ipa) 。
+使用任何此类服务下载并侧载 [Sonolus_0.6.0_2.ipa](https://sonolus.com/download/Sonolus_0.6.0_2.ipa) 。
 
 注意：Sonolus 与上述服务无关联，无法保证其安全性或真实性，请谨慎操作。
 
@@ -42,6 +42,6 @@ Sonolus 目前正在开发中，因此尚未发布在 App Store 中。
 
 -   [iOS Guide](https://ios.cfw.guide)
 
-越狱后，下载并安装 [Sonolus_0.6.0_1.ipa](https://sonolus.com/download/Sonolus_0.6.0_1.ipa) 。
+越狱后，下载并安装 [Sonolus_0.6.0_2.ipa](https://sonolus.com/download/Sonolus_0.6.0_2.ipa) 。
 
 注意：Sonolus 与上述指南无关联，无法保证其安全性或真实性，请谨慎操作。
