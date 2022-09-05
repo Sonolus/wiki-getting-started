@@ -22,4 +22,4 @@
 
 ### 2.安裝
 
-下載並安裝[Sonolus_0.6.0_3.apk](https://sonolus.com/download/Sonolus_0.6.0_3.apk)。
+下載並安裝[Sonolus_0.6.1.apk](https://sonolus.com/download/Sonolus_0.6.1.apk)。
