@@ -22,4 +22,4 @@ Bạn có thể làm những bước dưới đây đối với Android Lollipop
 
 ### 2. Tải về ứng dụng
 
-Tải ứng dụng tại đây: [Sonolus_0.6.2.apk](https://sonolus.com/download/Sonolus_0.6.2.apk).
+Tải ứng dụng tại đây: [Sonolus_0.6.3.apk](https://sonolus.com/download/Sonolus_0.6.3.apk).
