@@ -1,6 +1,6 @@
 [
   {
-    "title": "Khởi đầu",
+    "title": "Bắt đầu",
     "pages": {
       "/": "Giới thiệu"
     }
@@ -8,8 +8,8 @@
   {
     "title": "Cách cài dặt",
     "pages": {
-      "/installing/android": "Đối với Android",
-      "/installing/ios": "Đối với iOS"
+      "/installing/android": "Với Android",
+      "/installing/ios": "Với iOS"
     }
   }
 ]
