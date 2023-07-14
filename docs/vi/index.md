@@ -1,9 +1,9 @@
 # Giới thiệu
 
-Hướng dẫn bắt đầu với Sonolus.
+Hướng dẫn làm quen với Sonolus.
 
 Hướng dẫn này bao gồm:
 
-- Cách tải app Sonolus.
+- Cách tải Sonolus.
 - Khám phá những tính năng của Sonolus.
 - Những câu hỏi thường gặp.
