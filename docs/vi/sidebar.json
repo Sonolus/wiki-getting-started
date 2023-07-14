@@ -6,10 +6,10 @@
     }
   },
   {
-    "title": "Cách cài dặt",
+    "title": "Cài đặt",
     "pages": {
-      "/installing/android": "Với Android",
-      "/installing/ios": "Với iOS"
+      "/installing/android": "Android",
+      "/installing/ios": "iOS"
     }
   }
 ]
