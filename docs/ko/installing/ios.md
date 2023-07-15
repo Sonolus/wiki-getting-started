@@ -6,20 +6,20 @@ iOS 기기에 Sonolus를 설치하려면, 아래 방법들 중 하나를 선택�
 
 ## Apple TestFlight
 
-[Sonolus beta on TestFlight](https://testflight.apple.com/join/mdFtAf92) 링크를 클릭하여 지시를 따르세요.
+[Sonolus의 TestFlight 베타](https://testflight.apple.com/join/mdFtAf92) 링크를 클릭하여 지시를 따르세요.
 
-참고: 많은 사람들이 Sonolus를 사용하기 때문에, TestFlight는 자주 만료됩니다. 이 페이지에서 새로운 링크가 있는지 확인하거나, 다른 방법을 사용하여 설치하세요.
+참고: 많은 사람들이 Sonolus를 사용하기 때문에, TestFlight는 가득 차는 경우가 많습니다. 이 페이지로 돌아와서 새로운 링크가 있는지 확인하거나, 다른 방법을 사용하세요.
 
 ## 컴퓨터를 통한 사이드로드
 
 사이드로딩 도구에는 여러가지가 있습니다:
 
--   [AltStore](https://altstore.io)
--   [3uTools](http://3u.com)
--   [Sideloadly](https://sideloadly.io)
--   [爱思助手](https://www.i4.cn)
+- [AltStore](https://altstore.io)
+- [3uTools](http://3u.com)
+- [Sideloadly](https://sideloadly.io)
+- [爱思助手](https://www.i4.cn)
 
-[Sonolus_0.7.1.ipa](https://sonolus.com/download/Sonolus_0.7.1.ipa) 를 다운받아 위의 도구 중 하나를 선택하여 사이드로딩을 진행하세요.
+[Sonolus_0.7.1.ipa](https://sonolus.com/download/Sonolus_0.7.1.ipa) 를 다운로드하여 위의 도구 중 원하는 것을 사용하여 사이드로드하세요.
 
 참고: Sonolus는 위의 도구들과 관련이 없으며 안전을 보장할 수 없습니다. 신중하게 진행하세요.
 
@@ -27,21 +27,21 @@ iOS 기기에 Sonolus를 설치하려면, 아래 방법들 중 하나를 선택�
 
 사이드로딩 도구에는 여러가지가 있습니다:
 
--   [Scarlet](https://usescarlet.com)
--   [AppCake](https://www.iphonecake.com)
--   [Signum](https://signumsign.me)
--   [Signulous](https://www.signulous.com)
+- [Scarlet](https://usescarlet.com)
+- [AppCake](https://www.iphonecake.com)
+- [Signum](https://signumsign.me)
+- [Signulous](https://www.signulous.com)
 
-[Sonolus_0.7.1.ipa](https://sonolus.com/download/Sonolus_0.7.1.ipa) 를 다운받아 위의 도구 중 하나를 선택하여 사이드로딩을 진행하세요.
+[Sonolus_0.7.1.ipa](https://sonolus.com/download/Sonolus_0.7.1.ipa) 를 다운로드하여 위의 서비스 중 원하는 것을 사용하여 사이드로드하세요.
 
-참고: Sonolus는 위의 도구들과 관련이 없으며 안전을 보장할 수 없습니다. 신중하게 진행하세요.
+참고: Sonolus는 위의 서비스들과 관련이 없으며 안전 및 정확성을 보장할 수 없습니다. 신중하게 진행하세요.
 
 ## 탈옥
 
-탈옥 가이드를 참고하여 진행하세요. 예를 들어:
+아래와 같은 여러 탈옥 가이드를 참고하여 진행하세요.
 
--   [iOS Guide](https://ios.cfw.guide)
+- [iOS 가이드](https://ios.cfw.guide)
 
-탈옥 후 [Sonolus_0.7.1.ipa](https://sonolus.com/download/Sonolus_0.7.1.ipa) 를 다운받고 설치하세요.
+탈옥 후 [Sonolus_0.7.1.ipa](https://sonolus.com/download/Sonolus_0.7.1.ipa) 를 다운로드한 후 설치하세요.
 
-참고: Sonolus는 위의 가이드들과 관련이 없으며 안전을 보장할 수 없습니다. 신중하게 진행하세요.
+참고: Sonolus는 위의 가이드들과 관련이 없으며 안전 및 정확성을 보장할 수 없습니다. 신중하게 진행하세요.
