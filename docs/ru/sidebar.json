@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Начало работы",
+    "pages": {
+      "/": "Представление"
+    }
+  },
+  {
+    "title": "Установка",
+    "pages": {
+      "/installing/android": "Android",
+      "/installing/ios": "iOS"
+    }
+  }
+]
