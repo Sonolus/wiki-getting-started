@@ -14,12 +14,12 @@ Not: Sonolus'un ünü nedeniyle, TestFlight çoğunlukla doludur. Böyle bir dur
 
 Birçok araç dolaylı yükleme konusunda yardımcı olabilir, örneğin:
 
-- [AltStore](https://altstore.io)
-- [3uTools](http://3u.com)
-- [Sideloadly](https://sideloadly.io)
-- [爱思助手](https://www.i4.cn)
+-   [AltStore](https://altstore.io)
+-   [3uTools](http://3u.com)
+-   [Sideloadly](https://sideloadly.io)
+-   [爱思助手](https://www.i4.cn)
 
-[Sonolus_0.7.1_1.ipa](https://sonolus.com/download/Sonolus_0.7.1_1.ipa) dosyasını bu tür araçlardan herhangi birini kullanarak indirin ve dolaylı yükleyin.
+[Sonolus_0.7.2.ipa](https://sonolus.com/download/Sonolus_0.7.2.ipa) dosyasını bu tür araçlardan herhangi birini kullanarak indirin ve dolaylı yükleyin.
 
 Not: Sonolus, bu yukarıdaki araçlarla ilişkili değildir ve bunların güvenliğini ya da orijinalliğini garanti edemez, bu yüzden lütfen dikkatli bir şekilde ilerleyin.
 
@@ -27,12 +27,12 @@ Not: Sonolus, bu yukarıdaki araçlarla ilişkili değildir ve bunların güvenl
 
 Birçok servis dolaylı yükleme konusunda yardımcı olabilir, örneğin:
 
-- [Scarlet](https://usescarlet.com)
-- [AppCake](https://www.iphonecake.com)
-- [Signum](https://signumsign.me)
-- [Signulous](https://www.signulous.com)
+-   [Scarlet](https://usescarlet.com)
+-   [AppCake](https://www.iphonecake.com)
+-   [Signum](https://signumsign.me)
+-   [Signulous](https://www.signulous.com)
 
-[Sonolus_0.7.1_1.ipa](https://sonolus.com/download/Sonolus_0.7.1_1.ipa) dosyasını bu tür servislerden herhangi birini kullanarak indirin ve dolaylı yükleyin.
+[Sonolus_0.7.2.ipa](https://sonolus.com/download/Sonolus_0.7.2.ipa) dosyasını bu tür servislerden herhangi birini kullanarak indirin ve dolaylı yükleyin.
 
 Not: Sonolus, bu yukarıdaki servislerle ilişkili değildir ve bunların güvenliğini ya da orijinalliğini garanti edemez, bu yüzden lütfen dikkatli bir şekilde ilerleyin.
 
@@ -40,8 +40,8 @@ Not: Sonolus, bu yukarıdaki servislerle ilişkili değildir ve bunların güven
 
 Lütfen aşağıdakiler gibi çeşitli jailbreak kılavuzlarına başvurun:
 
-- [iOS Guide](https://ios.cfw.guide)
+-   [iOS Guide](https://ios.cfw.guide)
 
-[Sonolus_0.7.1_1.ipa](https://sonolus.com/download/Sonolus_0.7.1_1.ipa) dosyasını jailbreak işleminden sonra indirin ve kurun.
+[Sonolus_0.7.2.ipa](https://sonolus.com/download/Sonolus_0.7.2.ipa) dosyasını jailbreak işleminden sonra indirin ve kurun.
 
 Not: Sonolus, bu yukarıdaki kılavuzlarla ilişkili değildir ve bunların güvenliğini ya da orijinalliğini garanti edemez, bu yüzden lütfen dikkatli bir şekilde ilerleyin.
