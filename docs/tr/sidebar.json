@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Başlarken",
+    "pages": {
+      "/": "Giriş"
+    }
+  },
+  {
+    "title": "Sonolus' u Kurma",
+    "pages": {
+      "/installing/android": "Android",
+      "/installing/ios": "iOS"
+    }
+  }
+]

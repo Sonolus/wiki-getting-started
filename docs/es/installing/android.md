@@ -22,4 +22,4 @@ Por ejemplo, para Android Oreo vanilla y más nuevos, puedes encontrarlo en:
 
 ### 2. Instalar
 
-Descarga e instala [Sonolus_0.7.1_1.apk](https://sonolus.com/download/Sonolus_0.7.1_1.apk).
+Descarga e instala [Sonolus_0.7.2.apk](https://sonolus.com/download/Sonolus_0.7.2.apk).
