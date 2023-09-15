@@ -22,4 +22,4 @@ Bu adım, cihazınıza ve Android sürümünüze göre değişir, bu yüzden lü
 
 ### 2. Kurum
 
-[Sonolus_0.7.2.apk](https://download.sonolus.com/Sonolus_0.7.2.apk) dosyasını indirin ve kurun.
+[Sonolus_0.7.3.apk](https://download.sonolus.com/Sonolus_0.7.3.apk) dosyasını indirin ve kurun.
