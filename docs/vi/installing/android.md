@@ -22,4 +22,4 @@ Lấy ví dụ trên Android Oreo, ta có thể tìm nó qua các bước sau<br
 
 ### 2. Tải về ứng dụng
 
-Tải ứng dụng tại đây: [Sonolus_0.7.2.apk](https://download.sonolus.com/Sonolus_0.7.2.apk).
+Tải ứng dụng tại đây: [Sonolus_0.7.3.apk](https://download.sonolus.com/Sonolus_0.7.3.apk).
