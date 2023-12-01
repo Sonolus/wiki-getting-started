@@ -1,14 +1,14 @@
 # Android
 
-Sonolus는 개발중인 앱이므로, Android 스토어에서 설치할 수 없습니다.
+Sonolus는 개발중인 앱이므로 Android 스토어에서 설치할 수 없습니다.
 
-Android 기기에 Sonolus를 설치하려면, 다음 방법 중 원하는 것을 사용하세요.
+Android 기기에 Sonolus를 설치하려면 다음 방법들을 참고하십시오.
 
 ## 사이드로드
 
 ### 1. 사이드로딩 활성화
 
-이 단계는 기기와 Android 버전에 따라 다르므로, 검색 등을 통해 자세히 알아보시기 바랍니다.
+이 단계는 기기와 Android 버전에 따라 다르므로 검색 등을 통해 자세히 알아보시기 바랍니다.
 
 예시로 Android Oreo와 그 이상의 최신 버전에서는:
 
@@ -22,4 +22,4 @@ Android 기기에 Sonolus를 설치하려면, 다음 방법 중 원하는 것을
 
 ### 2. 설치
 
-[Sonolus_0.7.3.apk](https://download.sonolus.com/Sonolus_0.7.3.apk) 를 다운로드한 후 설치하세요.
+[Sonolus_0.7.3.apk](https://download.sonolus.com/Sonolus_0.7.3.apk)를 다운로드한 후 설치하십시오.
