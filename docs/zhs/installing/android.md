@@ -22,4 +22,4 @@ Sonolus 目前正在开发中，因此尚未发布在各 Android 商店中。
 
 ### 2. 安装
 
-下载并安装 [Sonolus_0.7.4.apk](https://download.sonolus.com/Sonolus_0.7.4.apk) 。
+下载并安装 [Sonolus_0.7.5.apk](https://download.sonolus.com/Sonolus_0.7.5.apk) 。
