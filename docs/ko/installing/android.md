@@ -10,7 +10,7 @@ Android 기기에 Sonolus를 설치하려면 다음 방법들을 참고하십시
 
 이 단계는 기기와 Android 버전에 따라 다르므로 검색 등을 통해 자세히 알아보시기 바랍니다.
 
-예시로 Android Oreo와 그 이상의 최신 버전에서는:
+Android Oreo 이상 버전에서의 예:
 
 1. 설정
 2. 앱 및 알림
@@ -22,4 +22,4 @@ Android 기기에 Sonolus를 설치하려면 다음 방법들을 참고하십시
 
 ### 2. 설치
 
-[Sonolus_0.7.5_1.apk](https://download.sonolus.com/Sonolus_0.7.5_1.apk)를 다운로드한 후 설치하십시오.
+[Sonolus_0.8.0.apk](https://download.sonolus.com/Sonolus_0.8.0.apk) 파일을 다운로드 후 설치하십시오.

@@ -19,7 +19,7 @@ Có rất nhiều công cụ hỗ trợ việc cài đặt như:
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
 
-Tải về và cài đặt [Sonolus_0.7.5_1.ipa](https://download.sonolus.com/Sonolus_0.7.5_1.ipa) thông qua những công cụ trên.
+Tải về và cài đặt [Sonolus_0.8.0.ipa](https://download.sonolus.com/Sonolus_0.8.0.ipa) thông qua những công cụ trên.
 
 Lưu ý: Sonolus không hợp tác với những công cụ trên nên không thể đảm bảo sự an toàn và uy tín, xin hãy cẩn trọng khi sử dụng.
 
@@ -32,7 +32,7 @@ Có rất nhiều công cụ hỗ trợ việc cài đặt như:
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 
-Tải về và cài đặt [Sonolus_0.7.5_1.ipa](https://download.sonolus.com/Sonolus_0.7.5_1.ipa) thông qua những công cụ trên.
+Tải về và cài đặt [Sonolus_0.8.0.ipa](https://download.sonolus.com/Sonolus_0.8.0.ipa) thông qua những công cụ trên.
 
 Lưu ý: Sonolus không hợp tác với những công cụ trên nên không thể đảm bảo sự an toàn và uy tín, xin hãy cẩn trọng khi sử dụng.
 
@@ -42,6 +42,6 @@ Xin hãy tham khảo những hướng dẫn jailbreak như:
 
 -   [iOS Guide](https://ios.cfw.guide)
 
-Tải về và cài đăt [Sonolus_0.7.5_1.ipa](https://download.sonolus.com/Sonolus_0.7.5_1.ipa) sau khi jailbreak.
+Tải về và cài đăt [Sonolus_0.8.0.ipa](https://download.sonolus.com/Sonolus_0.8.0.ipa) sau khi jailbreak.
 
 Lưu ý: Sonolus không hợp tác với những trang hướng dẫn trên nên không thể đảm bảo sự an toàn và uy tín, xin hãy cẩn trọng khi sử dụng.
