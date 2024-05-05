@@ -19,7 +19,7 @@ iOS 기기에 Sonolus를 설치하려면 다음 방법들을 참고하십시오.
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
 
-[Sonolus_0.8.0.ipa](https://download.sonolus.com/Sonolus_0.8.0.ipa)를 다운로드하고 위의 도구 중 원하는 것을 사용하여 사이드로드하십시오.
+[Sonolus_0.8.1.ipa](https://download.sonolus.com/Sonolus_0.8.1.ipa)를 다운로드하고 위의 도구 중 원하는 것을 사용하여 사이드로드하십시오.
 
 참고: Sonolus는 위의 도구들과 관련이 없으며 안전을 보장할 수 없습니다. 신중하게 진행하십시오.
 
@@ -32,7 +32,7 @@ iOS 기기에 Sonolus를 설치하려면 다음 방법들을 참고하십시오.
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 
-[Sonolus_0.8.0.ipa](https://download.sonolus.com/Sonolus_0.8.0.ipa)를 다운로드하여 위의 서비스 중 원하는 것을 사용하여 사이드로드하십시오.
+[Sonolus_0.8.1.ipa](https://download.sonolus.com/Sonolus_0.8.1.ipa)를 다운로드하여 위의 서비스 중 원하는 것을 사용하여 사이드로드하십시오.
 
 참고: Sonolus는 위의 서비스들과 관련이 없으며 안전을 보장할 수 없습니다. 신중하게 진행하십시오.
 
@@ -42,6 +42,6 @@ iOS 기기에 Sonolus를 설치하려면 다음 방법들을 참고하십시오.
 
 -   [iOS 가이드](https://ios.cfw.guide)
 
-탈옥 후 [Sonolus_0.8.0.ipa](https://download.sonolus.com/Sonolus_0.8.0.ipa)를 다운로드한 후 설치하십시오.
+탈옥 후 [Sonolus_0.8.1.ipa](https://download.sonolus.com/Sonolus_0.8.1.ipa)를 다운로드한 후 설치하십시오.
 
 참고: Sonolus는 위의 가이드들과 관련이 없으며 안전 및 정확성을 보장할 수 없습니다. 신중하게 진행하십시오.
