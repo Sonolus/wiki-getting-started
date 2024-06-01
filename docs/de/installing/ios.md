@@ -6,7 +6,7 @@ Folge den Methoden und Schritten unten, um Sonolus auf deinem iOS-Gerät zu inst
 
 ## Apple TestFlight
 
-Besuche [Sonolus BETA auf TestFlight](https://testflight.apple.com/join/mdFtAf92) und folge den Anweisungen.
+Besuche [Sonolus BETA auf TestFlight](https://testflight.apple.com/join/wGsMzLsU) und folge den Anweisungen.
 
 Hinweis: Aufgrund der hohen Popularität von Sonolus ist TestFlight häufig schnell voll. Komm später noch einmal zurück, um nach neuen Links zu schauen oder nutze eine der anderen Methoden.
 

@@ -6,7 +6,7 @@ Sonolus'u bir iOS cihaza yüklemek için aşağıdaki yöntemlerden birini kulla
 
 ## Apple' ın TestFlight' ı
 
-[TestFlight' da Sonolus beta](https://testflight.apple.com/join/mdFtAf92) linkini ziyaret edin ve talimatları takip edin.
+[TestFlight' da Sonolus beta](https://testflight.apple.com/join/wGsMzLsU) linkini ziyaret edin ve talimatları takip edin.
 
 Not: Sonolus'un ünü nedeniyle, TestFlight çoğunlukla doludur. Böyle bir durumda lütfen bu sayfaya geri dönün ve yeni bağlantıları kontrol edin, ya da diğer yöntemleri kullanın.
 
