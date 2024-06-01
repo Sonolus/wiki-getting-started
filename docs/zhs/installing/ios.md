@@ -6,7 +6,7 @@ Sonolus 目前正在开发中，因此尚未发布在 App Store 中。
 
 ## 苹果 TestFlight
 
-访问 [TestFlight 上的 Sonolus 测试版](https://testflight.apple.com/join/wGsMzLsU) 并按照说明进行操作。
+访问 [TestFlight 上的 Sonolus 测试版](https://testflight.apple.com/join/mdFtAf92) 并按照说明进行操作。
 
 注意：由于 Sonolus 的人气，TestFlight 经常满员。请常返此页面来获取新链接，或使用其他方法。
 
