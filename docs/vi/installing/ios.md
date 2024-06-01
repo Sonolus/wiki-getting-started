@@ -6,7 +6,7 @@ Xin hãy thử những cách dưới đây để tải Sonolus trên thiết b�
 
 ## Testflight của Apple
 
-Truy cập [Sonolus beta on TestFlight](https://testflight.apple.com/join/mdFtAf92) và làm theo nhứng chỉ dẫn ở đó.
+Truy cập [Sonolus beta on TestFlight](https://testflight.apple.com/join/wGsMzLsU) và làm theo nhứng chỉ dẫn ở đó.
 
 Lưu ý: do sự phổ biến của Sonolus, TestFlight thường xuyên bị đầy. Vui lòng quay lại trang này và kiểm tra các liên kết mới hoặc sử dụng các phương pháp khác.
 
