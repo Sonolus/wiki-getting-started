@@ -6,7 +6,7 @@
 
 ## Apple TestFlight
 
-在 TestFlight 上訪問[Sonolus 的 Beta 測試頁](https://testflight.apple.com/join/wGsMzLsU)並按照指引進行操作。
+在 TestFlight 上訪問[Sonolus 的 Beta 測試頁](https://testflight.apple.com/join/mdFtAf92)並按照指引進行操作。
 
 備註：由於測試人數過多，Sonolus 的 TestfFight 很經常地滿員並無法新增新的測試人員。<br>遇到這個情況時，請回到這個頁面去打開新的邀請連結，或使用其他方法。
 
