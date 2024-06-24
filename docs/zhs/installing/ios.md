@@ -15,6 +15,8 @@ Sonolus 目前正在开发中，因此尚未发布在 App Store 中。
 各种工具可以帮助进行侧载，例如：
 
 -   [AltStore](https://altstore.io)
+-   [SideStore](https://sidestore.io)
+-   [TrollStore](https://github.com/opa334/TrollStore)
 -   [3uTools](http://3u.com)
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
@@ -28,7 +30,6 @@ Sonolus 目前正在开发中，因此尚未发布在 App Store 中。
 各种服务可以帮助进行侧载，例如：
 
 -   [Scarlet](https://usescarlet.com)
--   [AppCake](https://www.iphonecake.com)
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 

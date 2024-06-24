@@ -15,6 +15,8 @@ Nota: debido a la popularidad de Sonolus, TestFlight se llena con frecuencia. Vu
 Algunas herramientas pueden ayudar con el sideloading, como:
 
 -   [AltStore](https://altstore.io)
+-   [SideStore](https://sidestore.io)
+-   [TrollStore](https://github.com/opa334/TrollStore)
 -   [3uTools](http://3u.com)
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
@@ -28,7 +30,6 @@ Descarga y hazle un sideload (descarga lateral) a [Sonolus_0.8.2.ipa](https://do
 Varios servicios pueden ayudar con el sideloading, como:
 
 -   [Scarlet](https://usescarlet.com)
--   [AppCake](https://www.iphonecake.com)
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 

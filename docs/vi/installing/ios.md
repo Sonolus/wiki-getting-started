@@ -15,6 +15,8 @@ Lưu ý: do sự phổ biến của Sonolus, TestFlight thường xuyên bị đ
 Có rất nhiều công cụ hỗ trợ việc cài đặt như:
 
 -   [AltStore](https://altstore.io)
+-   [SideStore](https://sidestore.io)
+-   [TrollStore](https://github.com/opa334/TrollStore)
 -   [3uTools](http://3u.com)
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
@@ -28,7 +30,6 @@ Lưu ý: Sonolus không hợp tác với những công cụ trên nên không th
 Có rất nhiều công cụ hỗ trợ việc cài đặt như:
 
 -   [Scarlet](https://usescarlet.com)
--   [AppCake](https://www.iphonecake.com)
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 
