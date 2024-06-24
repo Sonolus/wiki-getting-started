@@ -15,6 +15,8 @@ Note: due to popularity of Sonolus, TestFlight frequently gets full. Please come
 Various tools can help with sideloading, such as:
 
 -   [AltStore](https://altstore.io)
+-   [SideStore](https://sidestore.io)
+-   [TrollStore](https://github.com/opa334/TrollStore)
 -   [3uTools](http://3u.com)
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
@@ -28,7 +30,6 @@ Note: Sonolus is not associated with the above tools and cannot guarantee their 
 Various services can help with sideloading, such as:
 
 -   [Scarlet](https://usescarlet.com)
--   [AppCake](https://www.iphonecake.com)
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 

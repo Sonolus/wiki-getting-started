@@ -15,6 +15,8 @@ Hinweis: Aufgrund der hohen Popularität von Sonolus ist TestFlight häufig schn
 Alle möglichen Anwendungen können beim sideloaden helfen, wie bspw.:
 
 -   [AltStore](https://altstore.io)
+-   [SideStore](https://sidestore.io)
+-   [TrollStore](https://github.com/opa334/TrollStore)
 -   [3uTools](http://3u.com)
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
@@ -28,7 +30,6 @@ Hinweis: Sonolus hat keinerlei Verbindungen zu den oben genannten Anwendungen un
 Alle möglichen Dienste können beim sideloaden helfen, wie bspw.:
 
 -   [Scarlet](https://usescarlet.com)
--   [AppCake](https://www.iphonecake.com)
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 

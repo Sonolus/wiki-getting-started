@@ -15,6 +15,8 @@ iOS 기기에 Sonolus를 설치하려면 다음 방법들을 참고하십시오.
 사이드로딩 도구에는 여러가지가 있습니다:
 
 -   [AltStore](https://altstore.io)
+-   [SideStore](https://sidestore.io)
+-   [TrollStore](https://github.com/opa334/TrollStore)
 -   [3uTools](http://3u.com)
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
@@ -28,7 +30,6 @@ iOS 기기에 Sonolus를 설치하려면 다음 방법들을 참고하십시오.
 사이드로딩 도구에는 여러가지가 있습니다:
 
 -   [Scarlet](https://usescarlet.com)
--   [AppCake](https://www.iphonecake.com)
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 

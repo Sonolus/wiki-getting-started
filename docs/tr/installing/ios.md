@@ -15,6 +15,8 @@ Not: Sonolus'un ünü nedeniyle, TestFlight çoğunlukla doludur. Böyle bir dur
 Birçok araç dolaylı yükleme konusunda yardımcı olabilir, örneğin:
 
 -   [AltStore](https://altstore.io)
+-   [SideStore](https://sidestore.io)
+-   [TrollStore](https://github.com/opa334/TrollStore)
 -   [3uTools](http://3u.com)
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
@@ -28,7 +30,6 @@ Not: Sonolus, bu yukarıdaki araçlarla ilişkili değildir ve bunların güvenl
 Birçok servis dolaylı yükleme konusunda yardımcı olabilir, örneğin:
 
 -   [Scarlet](https://usescarlet.com)
--   [AppCake](https://www.iphonecake.com)
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 

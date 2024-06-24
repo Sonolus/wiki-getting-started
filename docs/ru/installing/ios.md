@@ -15,6 +15,8 @@ Sonolus на данный момент в этапе разработки, по�
 Различные приложения могут помочь с установкой из внешних источников, по типу:
 
 -   [AltStore](https://altstore.io)
+-   [SideStore](https://sidestore.io)
+-   [TrollStore](https://github.com/opa334/TrollStore)
 -   [3uTools](http://3u.com)
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
@@ -28,7 +30,6 @@ Sonolus на данный момент в этапе разработки, по�
 Различные сервисы могут помочь с установкой из внешних источников, по типу:
 
 -   [Scarlet](https://usescarlet.com)
--   [AppCake](https://www.iphonecake.com)
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 

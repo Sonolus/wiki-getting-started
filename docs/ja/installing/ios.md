@@ -15,6 +15,8 @@ Sonolus を iOS デバイスにインストールするには、下記のいず�
 次のようなさまざまなツールがサイドローディングに役立ちます。
 
 -   [AltStore](https://altstore.io)
+-   [SideStore](https://sidestore.io)
+-   [TrollStore](https://github.com/opa334/TrollStore)
 -   [3uTools](http://3u.com)
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
@@ -28,7 +30,6 @@ Sonolus を iOS デバイスにインストールするには、下記のいず�
 次のようなさまざまなサービスがサイドローディングに役立ちます。
 
 -   [Scarlet](https://usescarlet.com)
--   [AppCake](https://www.iphonecake.com)
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 
