@@ -22,4 +22,4 @@ Sonolus を Android デバイスにインストールするには、次の手順
 
 ### 2.インストール
 
-[Sonolus_0.8.2.apk](https://download.sonolus.com/Sonolus_0.8.2.apk) をブラウザ等からダウンロードして、開くとインストールできます。
+[Sonolus_0.8.3.apk](https://download.sonolus.com/Sonolus_0.8.3.apk) をブラウザ等からダウンロードして、開くとインストールできます。
