@@ -21,7 +21,7 @@ Birçok araç dolaylı yükleme konusunda yardımcı olabilir, örneğin:
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
 
-[Sonolus_0.8.2.ipa](https://download.sonolus.com/Sonolus_0.8.2.ipa) dosyasını bu tür araçlardan herhangi birini kullanarak indirin ve dolaylı yükleyin.
+[Sonolus_0.8.3.ipa](https://download.sonolus.com/Sonolus_0.8.3.ipa) dosyasını bu tür araçlardan herhangi birini kullanarak indirin ve dolaylı yükleyin.
 
 Not: Sonolus, bu yukarıdaki araçlarla ilişkili değildir ve bunların güvenliğini ya da orijinalliğini garanti edemez, bu yüzden lütfen dikkatli bir şekilde ilerleyin.
 
@@ -33,7 +33,7 @@ Birçok servis dolaylı yükleme konusunda yardımcı olabilir, örneğin:
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 
-[Sonolus_0.8.2.ipa](https://download.sonolus.com/Sonolus_0.8.2.ipa) dosyasını bu tür servislerden herhangi birini kullanarak indirin ve dolaylı yükleyin.
+[Sonolus_0.8.3.ipa](https://download.sonolus.com/Sonolus_0.8.3.ipa) dosyasını bu tür servislerden herhangi birini kullanarak indirin ve dolaylı yükleyin.
 
 Not: Sonolus, bu yukarıdaki servislerle ilişkili değildir ve bunların güvenliğini ya da orijinalliğini garanti edemez, bu yüzden lütfen dikkatli bir şekilde ilerleyin.
 
@@ -43,6 +43,6 @@ Lütfen aşağıdakiler gibi çeşitli jailbreak kılavuzlarına başvurun:
 
 -   [iOS Guide](https://ios.cfw.guide)
 
-[Sonolus_0.8.2.ipa](https://download.sonolus.com/Sonolus_0.8.2.ipa) dosyasını jailbreak işleminden sonra indirin ve kurun.
+[Sonolus_0.8.3.ipa](https://download.sonolus.com/Sonolus_0.8.3.ipa) dosyasını jailbreak işleminden sonra indirin ve kurun.
 
 Not: Sonolus, bu yukarıdaki kılavuzlarla ilişkili değildir ve bunların güvenliğini ya da orijinalliğini garanti edemez, bu yüzden lütfen dikkatli bir şekilde ilerleyin.
