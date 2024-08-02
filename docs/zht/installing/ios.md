@@ -21,7 +21,7 @@
 -   [Sideloadly](https://sideloadly.io)
 -   [愛思助手](https://www.i4.cn)
 
-使用以上的工具下載並側載[Sonolus_0.8.3.ipa](https://download.sonolus.com/Sonolus_0.8.3.ipa)。
+使用以上的工具下載並側載[Sonolus_0.8.4.ipa](https://download.sonolus.com/Sonolus_0.8.4.ipa)。
 
 備註：Sonolus 與上述提及的工具沒有關係，亦並不確保它們的安全性。請小心使用這些工具。
 
@@ -33,7 +33,7 @@
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 
-使用以上的服務下載並側載[Sonolus_0.8.3.ipa](https://download.sonolus.com/Sonolus_0.8.3.ipa)。
+使用以上的服務下載並側載[Sonolus_0.8.4.ipa](https://download.sonolus.com/Sonolus_0.8.4.ipa)。
 
 備註：Sonolus 與上述提及的服務沒有關係，亦並不確保它們的安全性。請小心使用這些工具。
 
@@ -43,6 +43,6 @@
 
 -   [iOS 指南](https://ios.cfw.guide)
 
-越獄後下載並安裝[Sonolus_0.8.3.ipa。](https://download.sonolus.com/Sonolus_0.8.3.ipa)
+越獄後下載並安裝[Sonolus_0.8.4.ipa。](https://download.sonolus.com/Sonolus_0.8.4.ipa)
 
 備註：Sonolus 與上述提及的指南沒有關係，亦並不確保它的安全性。請小心使用這些工具。
