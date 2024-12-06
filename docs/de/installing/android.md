@@ -22,4 +22,4 @@ Als Beispiel, für Geräte mit Standard-Android 8 (Oreo) und neuer ist es hier v
 
 ### 2. Installation
 
-Lade [Sonolus_0.8.7.apk](https://download.sonolus.com/Sonolus_0.8.7.apk) herunter und installiere die App.
+Lade [Sonolus_0.8.8.apk](https://download.sonolus.com/Sonolus_0.8.8.apk) herunter und installiere die App.
