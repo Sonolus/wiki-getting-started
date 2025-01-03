@@ -21,7 +21,7 @@ Sonolus を iOS デバイスにインストールするには、下記のいず�
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
 
-[Sonolus_0.8.9.ipa](https://download.sonolus.com/Sonolus_0.8.9.ipa)をダウンロードして上記のいずれかを使用すると、 サイドロードできます。
+[Sonolus_0.8.9_1.ipa](https://download.sonolus.com/Sonolus_0.8.9_1.ipa)をダウンロードして上記のいずれかを使用すると、 サイドロードできます。
 
 注：Sonolus は上記ツール群の開発元となんら関係しておらず、安全性や信頼性を保証していません。事前の評判をよく確認の上、気をつけて実行してください。
 
@@ -33,7 +33,7 @@ Sonolus を iOS デバイスにインストールするには、下記のいず�
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 
-[Sonolus_0.8.9.ipa](https://download.sonolus.com/Sonolus_0.8.9.ipa)をダウンロードして上記のいずれかを使用すると、 サイドロードできます。
+[Sonolus_0.8.9_1.ipa](https://download.sonolus.com/Sonolus_0.8.9_1.ipa)をダウンロードして上記のいずれかを使用すると、 サイドロードできます。
 
 注：Sonolus は上記サービス群の開発元となんら関係しておらず、安全性や信頼性を保証していません。事前の評判をよく確認の上、気をつけて実行してください。
 
@@ -43,6 +43,6 @@ Sonolus を iOS デバイスにインストールするには、下記のいず�
 
 -   [iOS Guide](https://ios.cfw.guide)
 
-[Sonolus_0.8.9.ipa](https://download.sonolus.com/Sonolus_0.8.9.ipa) をダウンロードして、開くとインストールできます。
+[Sonolus_0.8.9_1.ipa](https://download.sonolus.com/Sonolus_0.8.9_1.ipa) をダウンロードして、開くとインストールできます。
 
 注：Sonolus は上記のガイドの執筆者と一切関係しておらず、安全性や信頼性を保証することはできません。ご自身で安全か判断の上、十分注意して実行してください。
