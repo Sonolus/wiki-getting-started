@@ -22,4 +22,4 @@ Android Oreo 이상 버전에서의 예:
 
 ### 2. 설치
 
-[Sonolus_0.8.8.apk](https://download.sonolus.com/Sonolus_0.8.8.apk) 파일을 다운로드 후 설치하십시오.
+[Sonolus_0.8.9.apk](https://download.sonolus.com/Sonolus_0.8.9.apk) 파일을 다운로드 후 설치하십시오.
