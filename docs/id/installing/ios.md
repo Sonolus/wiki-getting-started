@@ -21,7 +21,7 @@ Berbagai alat dapat membantu sideloading, seperti:
 -   [Sideloadly](https://sideloadly.io)
 -   [爱思助手](https://www.i4.cn)
 
-Download dan sideload [Sonolus_0.8.9_1.ipa](https://download.sonolus.com/Sonolus_0.8.9_1.ipa) dengan menggunakan alat yang disebutkan.
+Download dan sideload [Sonolus_0.8.9_2.ipa](https://download.sonolus.com/Sonolus_0.8.9_2.ipa) dengan menggunakan alat yang disebutkan.
 
 Catatan: Sonolus tidak bekerja sama dengan alat yang diatas dan tidak bisa menjamin akan keamanan atau keasliannya, tolong dilakukan dengan hati-hati.
 
@@ -33,7 +33,7 @@ Berbagai layanan dapat membantu sideloading, seperti:
 -   [Signum](https://signumsign.me)
 -   [Signulous](https://www.signulous.com)
 
-Download dan sideload [Sonolus_0.8.9_1.ipa](https://download.sonolus.com/Sonolus_0.8.9_1.ipa) dengan menggunakan layanan yang disebutkan.
+Download dan sideload [Sonolus_0.8.9_2.ipa](https://download.sonolus.com/Sonolus_0.8.9_2.ipa) dengan menggunakan layanan yang disebutkan.
 
 Catatan: Sonolus tidak bekerja sama dengan layanan yang diatas dan tidak bisa menjamin akan keamanan atau keasliannya, tolong dilakukan dengan hati-hati.
 
@@ -43,6 +43,6 @@ Silakan berkonsultasi dengan berbagai panduan jailbreaking, seperti:
 
 -   [iOS Guide](https://ios.cfw.guide)
 
-Download dan install [Sonolus_0.8.9_1.ipa](https://download.sonolus.com/Sonolus_0.8.9_1.ipa) setelah jailbreaking.
+Download dan install [Sonolus_0.8.9_2.ipa](https://download.sonolus.com/Sonolus_0.8.9_2.ipa) setelah jailbreaking.
 
 Catatan: Sonolus tidak bekerja sama dengan panduan yang diatas dan tidak bisa menjamin akan keamanan atau keasliannya, tolong dilakukan dengan hati-hati.
